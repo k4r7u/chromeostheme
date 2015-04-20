@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=ChromeOS
+Comment=Theme to mimick Chrome OS' look based on Greybird
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Greybird
+MetacityTheme=Greybird
+IconTheme=elementary-xfce-dark
+CursorTheme=DMZ-White
+ButtonLayout=:minimize,maximize,close
