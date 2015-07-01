@@ -20,12 +20,19 @@ This is a theme for Linux to make it look like ChromeOS
 
 ### When finished, the ChromeOS Theme will include:
 – GTK2 theme
+
 – GTK3 theme
+
 – Xfwm4 theme
+
 – xfce-notifyd theme
+
 – Emerald theme
+
 – Metacity theme
+
 – Mutter theme
+
 – Unity support
 
 
