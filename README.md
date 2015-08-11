@@ -5,15 +5,15 @@ This is a theme for Linux to make it look like ChromeOS
 
 1. Navigate to `/usr/share/themes` (`cd /usr/share/themes`)
 
-2. Run this command: `git clone https://github.com/crutchcorn/chromeostheme.git`
+2. Run this command: `sudo git clone https://github.com/crutchcorn/chromeostheme.git`
 
 3. Well done! The source will be in `/usr/share/themes/chromeostheme/
 
 ### Updating
 
-1. Navigate to `/usr/share/themes/chromeostheme/
+1. Navigate to `/usr/share/themes/chromeostheme/` (`/usr/share/themes/chromeostheme/`
 
-2. Run `git pull origin master`
+2. Run `sudo git pull origin master`
 
 3. Done
 
