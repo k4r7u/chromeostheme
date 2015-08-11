@@ -11,7 +11,7 @@ This is a theme for Linux to make it look like ChromeOS
 
 ### Updating
 
-1. Navigate to `/usr/share/themes/chromeostheme/` (cd `/usr/share/themes/chromeostheme/`)
+1. Navigate to `/usr/share/themes/chromeostheme/` (`cd /usr/share/themes/chromeostheme/`)
 
 2. Run `sudo git pull origin master`
 
