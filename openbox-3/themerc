@@ -8,7 +8,7 @@ menu.title.bg: 						        Flat Solid
 menu.title.bg.color: 					        #f4f4f4
 menu.title.text.color: 					        #212121
 menu.title.text.justify: 				        left
-			
+
 menu.border.width: 					        13
 menu.border.color:					        #f4f4f4
 
@@ -46,7 +46,7 @@ menu.separator.color:                   		        #212121
 !!------------------------------------------------------------------------
 
 !! window title
-	
+
 window.active.title.bg: 					Flat Vertical
 window.active.title.bg.color: 		                        #DEDEDE
 
@@ -76,10 +76,10 @@ window.inactive.label.text.color: 			        #404040
 !! window borders
 
 border.width: 							1
-border.color: 						        #979797
+border.color: 						        #DEDEDE
 
 window.client.padding.width: 				        0
-window.client.padding.height:				        0			
+window.client.padding.height:				        0
 
 window.active.client.color:					#DEDEDE
 window.inactive.client.color:					#DEDEDE
@@ -111,9 +111,9 @@ window.inactive.grip.bg.color:                                  #DEDEDE
 
 !!------------------------------------------------------------------------
 
-!! ACTIVE	
+!! ACTIVE
 
-window.active.border.color:                                     #393939
+window.active.border.color:                                     #ABABAB
 
 window.active.title.bg: 					flat solid
 window.active.title.bg.color:                                   #CECECE
@@ -138,19 +138,19 @@ window.active.button.hover.bg.color:                            #B4B4B4
 window.active.button.hover.image.color:                         #2E2E2E
 
 window.active.button.pressed.bg:                                flat solid
-window.active.button.pressed.bg.color:                          #B4B4B4
+window.active.button.pressed.bg.color:                          #eaeaea
 window.active.button.pressed.image.color:                       #2E2E2E
 
 window.active.button.disabled.bg:                               flat solid
 window.active.button.disabled.bg.color:                         #CECECE
 window.active.button.disabled.image.color:                      #AEAEAE
-		
+
 window.active.button.toggled.unpressed.bg:			flat solid
 window.active.button.toggled.unpressed.bg.color:		#CECECE
 window.active.button.toggled.unpressed.image.color:		#6B6B6B
 
 window.active.button.toggled.pressed.bg:			flat solid
-window.active.button.toggled.pressed.bg.color:			#B4B4B4
+window.active.button.toggled.pressed.bg.color:			#eaeaea
 window.active.button.toggled.pressed.image.color:		#2E2E2E
 
 window.active.button.toggled.hover.bg:				flat solid
@@ -160,10 +160,10 @@ window.active.button.toggled.hover.image.color:			#2E2E2E
 
 !!------------------------------------------------------------------------
 
-!! INACTIVE	
+!! INACTIVE
 
 
-window.inactive.border.color:                                   #393939
+window.inactive.border.color:                                   #ABABAB
 
 window.inactive.title.bg: flat solid
 window.inactive.title.bg.color:                                 #CECECE
